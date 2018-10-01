@@ -10,13 +10,11 @@ namespace PHPMVC;
 
 session_start();
 
-// teszzzzzzzzzzzzzzzzzzzz
-
 use PHPMVC\LIB\FrontController;
 use PHPMVC\LIB\Language;
 use PHPMVC\LIB\Template;
 
-// tesssssssssssssts
+
 
 if(! defined('DS'))
 {
