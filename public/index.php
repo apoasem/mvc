@@ -10,6 +10,8 @@ namespace PHPMVC;
 
 session_start();
 
+// test
+
 use PHPMVC\LIB\FrontController;
 use PHPMVC\LIB\Language;
 use PHPMVC\LIB\Template;
