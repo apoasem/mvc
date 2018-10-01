@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/mvc/public/index.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/controllers/abstractcontroller.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/controllers/employeecontroller.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/lib/inputfilter.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/lib/helper.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/controllers/indexcontroller.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/lib/frontcontroller.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/lib/language.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/template/templatefooter.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/config/templateconfig.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/models/employeemodel.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/app/models/abstractmodel.php</file>
+        </group>
+    </open-files>
+</project-private>

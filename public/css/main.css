@@ -1,0 +1,294 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Tahoma;
+}
+.main{
+    padding: 10px;
+    background: rgba(64, 64, 64, 0.89);
+    color: #FFFFFF;
+    overflow: hidden;
+}
+
+div.wrapper{
+    background: #ff9140;
+    height: 1000px;
+    overflow: hidden;
+}
+
+.main h2{
+    direction: rtl;
+    float: right;
+    font-size: 1.5em;
+}
+
+.main_navigation{
+    width: 20%;
+    height: 100%;
+    float: right;
+    background: #585858;
+}
+
+.main_navigation table{
+    margin: 75% 0;
+    width: 100%;
+    height: 20%;
+    background: #2d2d2d;
+    direction: rtl;
+    color: white;
+    font-size: 1.2em;
+}
+
+.main_navigation table tr {
+    border-top: 2px solid #5f3f3f;
+}
+
+.main_navigation table a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.main_navigation table a:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+div .container{
+    overflow: hidden;
+}
+
+ div .addEmployee{
+    float: left;
+    width: 50%;
+}
+div.addEmployee fieldset{
+    margin: 20px auto;
+    padding: 20px;
+    width: 50%;
+    background: #dadada;
+    border: 1px solid #aaaaaa;
+}
+
+div.addEmployee fieldset form label{
+    color: #666666;
+}
+
+div.addEmployee fieldset form input{
+    width: 150px;
+    display: block;
+    margin: 5px auto;
+    padding: 5px;
+    border: none;
+}
+
+div.addEmployee fieldset form input:last-child{
+    width: 100px;
+    padding: 10px;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 1em ;
+    background-color: #8e8e8e;
+}
+div fieldset legend{
+    background: #8e8e8e;
+}
+
+div fieldset p{
+    padding: 5px;
+    background: #30c330;
+    border-radius: 8px;
+    color: #ffffff;
+}
+
+div fieldset p.error{
+    background: #c40000;
+}
+
+div.showEmployee{
+    width: 50%;
+    margin: 0 auto;
+}
+
+div.showEmployee table{
+    direction: rtl;
+    text-align: center;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+div.showEmployee table th{
+    color: #666;
+    width: 100px;
+    padding: 10px;
+    background: #b6b6b6;
+    border-right: 1px solid #c6c6c6;
+    border-bottom: 1px solid #c6c6c6;
+}
+
+div.showEmployee table tr:nth-child(2n){
+    background: #dadada;
+}
+div.showEmployee table td a,
+div.showEmployee table td a:visited
+{
+    color: #2e9dd3;
+}
+
+div .container{
+    overflow: hidden;
+}
+div.addEmployee{
+    margin: 0 auto;
+    width: 50%;
+}
+div.addEmployee fieldset{
+    margin: 0 auto;
+    padding: 20px;
+    width: 50%;
+    background: #dadada;
+    border: 1px solid #aaaaaa;
+}
+
+div.addEmployee fieldset form label{
+    color: #666666;
+}
+
+div.addEmployee fieldset form input{
+    width: 150px;
+    display: block;
+    margin: 5px auto;
+    padding: 5px;
+    border: none;
+}
+
+div.addEmployee fieldset form input:last-child{
+    width: 100px;
+    padding: 10px;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 1em ;
+    background-color: #8e8e8e;
+}
+div fieldset legend{
+    background: #8e8e8e;
+}
+
+div fieldset p{
+    padding: 5px;
+    background: #30c330;
+    border-radius: 8px;
+    color: #ffffff;
+}
+
+div fieldset p.error{
+    background: #c40000;
+}
+
+div.showEmployee{
+    width: 50%;
+    margin: 0 auto;
+}
+
+div.showEmployee table{
+    text-align: center;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+div.showEmployee table th{
+    color: #666;
+    width: 100px;
+    padding: 10px;
+    background: #b6b6b6;
+    border-right: 1px solid #c6c6c6;
+    border-bottom: 1px solid #c6c6c6;
+}
+
+div.showEmployee table tr:nth-child(2n){
+    background: #dadada;
+}
+div.showEmployee table td a,
+div.showEmployee table td a:visited
+{
+    color: #2e9dd3;
+}
+
+div .container{
+    overflow: hidden;
+}
+div .addEmployee{
+    float: left;
+    width: 50%;
+}
+div.addEmployee fieldset{
+    margin: 20px auto;
+    padding: 20px;
+    width: 50%;
+    background: #dadada;
+    border: 1px solid #aaaaaa;
+}
+
+div.addEmployee fieldset form label{
+    color: #666666;
+}
+
+div.addEmployee fieldset form input{
+    width: 150px;
+    display: block;
+    margin: 5px auto;
+    padding: 5px;
+    border: none;
+}
+
+div.addEmployee fieldset form input:last-child{
+    width: 100px;
+    padding: 10px;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 1em ;
+    background-color: #8e8e8e;
+}
+div fieldset legend{
+    background: #8e8e8e;
+}
+
+div fieldset p{
+    padding: 5px;
+    background: #30c330;
+    border-radius: 8px;
+    color: #ffffff;
+}
+
+div fieldset p.error{
+    background: #c40000;
+}
+
+div.showEmployee{
+    float: right;
+    width: 50%;
+}
+
+div.showEmployee table{
+    text-align: center;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+div.showEmployee table th{
+    color: #666;
+    width: 100px;
+    padding: 10px;
+    background: #b6b6b6;
+    border-right: 1px solid #c6c6c6;
+    border-bottom: 1px solid #c6c6c6;
+}
+
+div.showEmployee table tr:nth-child(2n){
+    background: #dadada;
+}
+div.showEmployee table td a,
+div.showEmployee table td a:visited
+{
+    color: red;
+}
