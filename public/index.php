@@ -16,7 +16,7 @@ use PHPMVC\LIB\FrontController;
 use PHPMVC\LIB\Language;
 use PHPMVC\LIB\Template;
 
-// tessssssssssssst
+// tesssssssssssssts
 
 if(! defined('DS'))
 {
