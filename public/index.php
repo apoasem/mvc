@@ -16,6 +16,7 @@ use PHPMVC\LIB\Template;
 
 
 
+
 if(! defined('DS'))
 {
     define('DS', DIRECTORY_SEPARATOR);

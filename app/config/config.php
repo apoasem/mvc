@@ -14,7 +14,7 @@ define('CSS', '/css/');
 define('JS', '/js/');
 
 // Database Credentials
-defined('DATABASE_HOST_NAME')       ? null : define ('DATABASE_HOST_NAME', 'mvcapp');
+defined('DATABASE_HOST_NAME')       ? null : define ('DATABASE_HOST_NAME', 'mvcapp.com');
 defined('DATABASE_USER_NAME')       ? null : define ('DATABASE_USER_NAME', 'root');
 defined('DATABASE_PASSWORD')        ? null : define ('DATABASE_PASSWORD', '');
 defined('DATABASE_DB_NAME')         ? null : define ('DATABASE_DB_NAME', 'php_pdo');
